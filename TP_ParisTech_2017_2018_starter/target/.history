@@ -1,0 +1,2 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+all {file:/home/alexis/TP_Spark/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/products {file:/home/alexis/TP_Spark/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/test:products
